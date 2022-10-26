@@ -1,4 +1,4 @@
-# basic but please contact for full sets
+### 7 pillars of python cheatsheet for data objects, iterators, conditionals, functions, dataframses/series, and class objects + constructors
 
 ![nlp_history](https://user-images.githubusercontent.com/59778456/198143553-66ba1451-6259-40cf-ae24-4696658123b5.JPG)
 
