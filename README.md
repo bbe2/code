@@ -1,9 +1,13 @@
 https://en.wikipedia.org/wiki/Data_transformation_(computing)  
-### my own 7 pillars of python cheatsheet - as part of my python data transformation training  
+#### my own 7 pillars of python cheatsheet - as part of my python data transformation training  
 **training model link(nov pending)=>**
 
-### for data objects, iterators, conditionals, functions, dataframses/series, and class objects + constructors  
+#### for data objects, iterators, conditionals, functions, dataframses/series, and class objects + constructors  
 **zipper_codebook=>**
+
+Google foobar items:
+https://github.com/oasys/google-foobar
+
 
 ![nlp_history](https://user-images.githubusercontent.com/59778456/198143553-66ba1451-6259-40cf-ae24-4696658123b5.JPG)
 
