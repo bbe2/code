@@ -4,10 +4,10 @@ my own 7 pillars of python cheatsheet - as part of my python data transformation
 data objects, iterators, conditionals, functions, dataframes, and class objects + constructors  
 **zipper_codebook=>**
 
-New items to build out google foobar work and references
-Google foobar items:
-https://github.com/oasys/google-foobar
-https://stackoverflow.com/questions/61907902/google-foobar-challenge-level-2-hey-i-already-did-that
+New items to build out google foobar work and references  
+Google foobar items:  
+https://github.com/oasys/google-foobar  
+https://stackoverflow.com/questions/61907902/google-foobar-challenge-level-2-hey-i-already-did-that  
 
 
 ![nlp_history](https://user-images.githubusercontent.com/59778456/198143553-66ba1451-6259-40cf-ae24-4696658123b5.JPG)
