@@ -1,3 +1,24 @@
+> import, inspect data (pandas tables)
+>> de desribe(), miss, na, null
+>>> boxplots, pairplots, sns scatterplots
+>>>>> address outliers and correlations
+>>>>> calc new variables
+>>>>>> select features
+>>>>>>>> OLS, MLR, R^2
+>>>>>>> residual, qq plots
+>>>>>> linear, normality check
+>>>>> iterate models
+>>>> final feature selection
+>> confusion matric
+> final recommendations
+
+
+
+
+
+
+
+
 https://en.wikipedia.org/wiki/Data_transformation_(computing)  
 
 my own 7 pillars of python cheatsheet - as part of my python data transformation training  
